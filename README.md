@@ -1,4 +1,4 @@
-In this game you will fight against viruses.
+In this game you will fight against three viruses.
 
 If every virus's level reaches 6, you will lose the game. If every virus's research level reaches 6, you will win the game.
 
