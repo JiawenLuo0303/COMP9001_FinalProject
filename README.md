@@ -1,4 +1,4 @@
-In this game you will fight against viruses.\n
+In this game you will fight against viruses.
 If every virus's level reaches 6, you will lose the game. If every virus's research level reaches 6, you will win the game.
 In one round, you can take 5 actions, including collecting data, curing, researching on vaccine and moving. If you want to collect data, cure or research on vaccine, you need to move to that point first.
 Collecting data(Research): The system will obtain a number randomly. If it is 1, 2 or 3, the research data will increase by 3. If it is 4 or 5, the research data will increase by 4. If it is 6, the research data will increase by 5.
